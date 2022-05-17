@@ -7,6 +7,10 @@ In this course you’ll learn the basics of working with Figma, from both a desi
 
 **Available on [Envato Tuts+](https://tutsplus.com/courses) from November, 2017**
 
+-   [Introduction to Figma](https://webdesign.tutsplus.com/courses/search/Introduction+To+Figma)
+
+-   [Figma to HTML: Code Up a Single-Page Design](https://webdesign.tutsplus.com/courses/figma-to-html-code-up-a-single-page-design)
+
 -   [Youtube - Introduction To Figma | FREE COURSE](https://www.youtube.com/watch?v=g6rQFP9zCAM)
 
 -   [How to Use SVG Images in CSS and HTML – A Tutorial for Beginners](https://www.freecodecamp.org/news/use-svg-images-in-css-html/#:~:text=SVG%20images%20can%20be%20written,element%20in%20your%20HTML%20document.&text=body%3E-,If%20you%20did%20everything%20correctly%2C%20your%20webpage%20should,exactly%20like%20the%20demo%20below.)
